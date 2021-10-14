@@ -1,0 +1,18 @@
+# Created using YamlCreate.ps1 v1.1.7
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
+
+PackageIdentifier: Oracle.MySqlWorkbench
+PackageVersion: 8.0.26
+MinimumOSVersion: 10.0.0.0
+Installers:
+- InstallerLocale: en-US
+  Architecture: x64
+  InstallerType: msi
+#  Scope: 
+  InstallerUrl: https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.26-winx64.msi
+  InstallerSha256: F8659EDDABAA5675263BC9D11924B291A3F8AA6F6F9FC62513EAA11EF05262A4
+  ProductCode: '{7E665091-6EFA-496D-91BE-BF36D42A8E1E}'
+  UpgradeBehavior: install
+ManifestType: installer
+ManifestVersion: 1.0.0
+

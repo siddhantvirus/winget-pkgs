@@ -1,0 +1,25 @@
+# Created using YamlCreate.ps1 v1.1.7
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.0.0.schema.json
+
+PackageIdentifier: Oracle.MySqlWorkbench
+PackageVersion: 8.0.26
+PackageLocale: en-US
+Publisher: Oracle Corporation
+PublisherUrl: https://www.oracle.com
+PublisherSupportUrl: https://dev.mysql.com/doc
+PrivacyUrl: https://www.oracle.com/legal/privacy/
+#Author: 
+PackageName: MySQL Workbench
+#PackageUrl: 
+License: GNU General Public License version 2
+#LicenseUrl: 
+#Copyright: 
+#CopyrightUrl: 
+ShortDescription: MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
+#Description: 
+Tags:
+- mysql
+- workbench
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
+
